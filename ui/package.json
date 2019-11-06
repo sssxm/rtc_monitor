@@ -1,0 +1,48 @@
+{
+  "name": "rtc-monitor",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@bandwidth/shared-components": "^6.1.22",
+    "@types/jest": "24.0.18",
+    "@types/node": "12.7.5",
+    "@types/react": "16.9.2",
+    "@types/react-dom": "16.9.0",
+    "@types/react-router-dom": "^5.1.0",
+    "ag-grid-community": "^21.2.1",
+    "ag-grid-enterprise": "^21.2.1",
+    "ag-grid-react": "^21.2.1",
+    "bootstrap": "^4.3.1",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-router-dom": "^5.1.1",
+    "react-scripts": "3.1.1",
+    "styled-components": "^4.4.0",
+    "typescript": "3.6.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "css-loader": "^3.2.0",
+    "style-loader": "^1.0.0"
+  }
+}

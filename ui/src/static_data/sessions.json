@@ -1,0 +1,179 @@
+{
+  "data": [
+    {
+      "session_id": "session01",
+      "created_at": "09-18-2019",
+      "destroyed_at": "09-18-2019",
+      "duration": "7min",
+      "num_users": "1"
+    },
+    {
+      "session_id": "session02",
+      "created_at": "09-17-2019",
+      "destroyed_at": "09-17-2019",
+      "duration": "6min",
+      "num_users": "2"
+    },
+    {
+      "session_id": "session03",
+      "created_at": "09-16-2019",
+      "destroyed_at": "09-16-2019",
+      "duration": "5min",
+      "num_users": "3"
+    },
+    {
+      "session_id": "session04",
+      "created_at": "09-15-2019",
+      "destroyed_at": "09-15-2019",
+      "duration": "4min",
+      "num_users": "2"
+    },
+    {
+      "session_id": "session05",
+      "created_at": "09-14-2019",
+      "destroyed_at": "09-14-2019",
+      "duration": "3min",
+      "num_users": "5"
+    },
+    {
+      "session_id": "session06",
+      "created_at": "09-13-2019",
+      "destroyed_at": "09-13-2019",
+      "duration": "2min",
+      "num_users": "2"
+    },
+    {
+      "session_id": "session07",
+      "created_at": "09-12-2019",
+      "destroyed_at": "09-12-2019",
+      "duration": "1min",
+      "num_users": "3"
+    },
+    {
+      "session_id": "session08",
+      "created_at": "09-11-2019",
+      "destroyed_at": "09-11-2019",
+      "duration": "9min",
+      "num_users": "4"
+    },
+    {
+      "session_id": "session09",
+      "created_at": "09-10-2019",
+      "destroyed_at": "09-10-2019",
+      "duration": "7min",
+      "num_users": "5"
+    },
+    {
+      "session_id": "session10",
+      "created_at": "09-09-2019",
+      "destroyed_at": "09-09-2019",
+      "duration": "2min",
+      "num_users": "3"
+    },
+    {
+      "session_id": "session11",
+      "created_at": "09-08-2019",
+      "destroyed_at": "09-08-2019",
+      "duration": "8min",
+      "num_users": "2"
+    },
+    {
+      "session_id": "session12",
+      "created_at": "09-07-2019",
+      "destroyed_at": "09-07-2019",
+      "duration": "2min",
+      "num_users": "2"
+    },
+    {
+      "session_id": "session13",
+      "created_at": "09-06-2019",
+      "destroyed_at": "09-06-2019",
+      "duration": "4min",
+      "num_users": "1"
+    },
+    {
+      "session_id": "session14",
+      "created_at": "09-05-2019",
+      "destroyed_at": "09-05-2019",
+      "duration": "7min",
+      "num_users": "2"
+    },
+    {
+      "session_id": "session15",
+      "created_at": "09-04-2019",
+      "destroyed_at": "09-04-2019",
+      "duration": "9min",
+      "num_users": "4"
+    },
+    {
+      "session_id": "session16",
+      "created_at": "09-03-2019",
+      "destroyed_at": "09-03-2019",
+      "duration": "5min",
+      "num_users": "1"
+    },
+    {
+      "session_id": "session17",
+      "created_at": "09-02-2019",
+      "destroyed_at": "09-02-2019",
+      "duration": "9min",
+      "num_users": "6"
+    },
+    {
+      "session_id": "session18",
+      "created_at": "09-01-2019",
+      "destroyed_at": "09-01-2019",
+      "duration": "8min",
+      "num_users": "2"
+    },
+    {
+      "session_id": "session19",
+      "created_at": "08-31-2019",
+      "destroyed_at": "08-31-2019",
+      "duration": "3min",
+      "num_users": "1"
+    },
+    {
+      "session_id": "session20",
+      "created_at": "08-30-2019",
+      "destroyed_at": "08-30-2019",
+      "duration": "5min",
+      "num_users": "2"
+    },
+    {
+      "session_id": "session21",
+      "created_at": "08-29-2019",
+      "destroyed_at": "08-29-2019",
+      "duration": "1min",
+      "num_users": "1"
+    },
+    {
+      "session_id": "session22",
+      "created_at": "08-28-2019",
+      "destroyed_at": "08-28-2019",
+      "duration": "9min",
+      "num_users": "4"
+    },
+    {
+      "session_id": "session23",
+      "created_at": "08-27-2019",
+      "destroyed_at": "08-27-2019",
+      "duration": "1min",
+      "num_users": "1"
+    },
+    {
+      "session_id": "session24",
+      "created_at": "08-26-2019",
+      "destroyed_at": "08-26-2019",
+      "duration": "4min",
+      "num_users": "2"
+    },
+    {
+      "session_id": "session25",
+      "created_at": "08-25-2019",
+      "destroyed_at": "08-25-2019",
+      "duration": "5min",
+      "num_users": "3"
+    }
+  ]
+}
